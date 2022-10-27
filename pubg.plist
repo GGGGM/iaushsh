@@ -17,19 +17,19 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://kasar.store/Kasaricon.png</string>
+					<string>https://play-lh.googleusercontent.com/JRd05pyBH41qjgsJuWduRJpDeZG0Hnb0yjf2nWqO7VaGKL10-G5UIygxED-WNOc3pg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://kasar.store/Kasaricon.png</string>
+					<string>https://play-lh.googleusercontent.com/JRd05pyBH41qjgsJuWduRJpDeZG0Hnb0yjf2nWqO7VaGKL10-G5UIygxED-WNOc3pg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>app.store.kasar.Clash-of-Clans</string>
+				<string>com.tencent.ig</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
